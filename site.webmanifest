@@ -1,0 +1,10 @@
+{
+  "name": "Aqbobek Lyceum Portal",
+  "short_name": "Aqbobek",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5efe3",
+  "theme_color": "#f5efe3",
+  "description": "Единый школьный портал Aqbobek Lyceum с успеваемостью, событиями, AI-наставником и kiosk mode.",
+  "icons": []
+}

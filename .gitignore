@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# Local app data
+users.json
+school-data.json
+
+# SQLite
+school.db
+school.db-shm
+school.db-wal
